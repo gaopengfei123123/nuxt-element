@@ -5,6 +5,7 @@
   "author": "gaofeifiy <5173180@qq.com>",
   "private": true,
   "dependencies": {
+    "element-ui": "^1.2.4",
     "nuxt": "latest"
   },
   "scripts": {
